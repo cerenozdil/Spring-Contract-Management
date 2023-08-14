@@ -1,5 +1,5 @@
 # Spring-Contract-Management
-Spring and React Contract Management System
+
 **admin username=admin password=admin**
 
 **Spring-Contract-Management/movie-api/src/main/resources
